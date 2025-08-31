@@ -25,41 +25,58 @@ This tutorial outlines the prerequisites and an help desk example of the open-so
 <h2>Example</h2>
 
 <p>
+  Step 1: Add User
+
+
+- Created a user account in the osTicket system to simulate a help desk employee.
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0f8abc5c-77f6-4fff-a074-366ebc8042fb" />
 </p>
 <p>
-Added a user in the OsTicket System.
-</p>
-<br />
+
+
+
+
+Step 2: Create SLAs
+
+- Defined multiple SLAs in osTicket to manage ticket response and resoloution times.
+
 
 <p>
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8c1b9c08-0e36-413a-9b72-17576c767d1c" />
 </p>
 <p>
-Created mutiple SLA's in osTicket System
-</p>
-<br />
 
+
+Step 3: Create Help Topics
+
+
+- Added mutiple help topics/categories in osTicket for users to classify tickets.
 <p>
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/391aaf97-1961-4caf-b2a1-3f9ad206ae26" />
 </p>
 <p>
-Created mutiple help topics in the osTicket System.
-</p>
-<br />
+
+
+
+Step 4: Create & Assign Tickets
+
+
+- Created a new ticket and assigned to a specific employee for resoloution.
 <p>
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/351a6457-1c22-4c78-9b64-f86dc40a1684" />
 </p> 
 <p>
-Created a ticket and assigned it to a employee.
-</p>
-</p>
-<br />
+
+
+Step 5: Resolve Ticket
+
+
+-Employee logged in and resolved the assigned ticket.
 
 <p>
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/05d0aaf1-31a2-4ce7-9e21-53acf26e76b6" />
 </p>
 </p>
 <p>
-Employee resolved ticket.
+
 </p>

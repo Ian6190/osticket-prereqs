@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket, along with key setup steps such as creating users, SLAs, help topics, and tickets.<br />
+<h1>osTicket - Prerequisites and Help Desk Example</h1>
+This tutorial outlines the prerequisites and an help desk example of the open-source help desk ticketing system osTicket, along with key setup steps such as creating users, SLAs, help topics, and tickets.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop Connection (to access the VM)
 - Internet Information Services (IIS) enabled on the VM
 - osTicket installation files (downloaded package)
-<h2>Installation Steps</h2>
+<h2>Example</h2>
 
 <p>
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0f8abc5c-77f6-4fff-a074-366ebc8042fb" />

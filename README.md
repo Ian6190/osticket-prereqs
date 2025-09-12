@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Help Desk Example</h1>
-This tutorial outlines the prerequisites and an help desk example of the open-source help desk ticketing system osTicket, along with key setup steps such as creating users, SLAs, help topics, and tickets.<br />
+<h1>osTicket - User,SLA, Help Topics and Ticket Management Example</h1>
+This example shows how to set up and use the osTicket Help Desk Ticketing System by walking through common tasks. The steps include creating a user, defining SLAs, adding help topics, creating and assigning tickets, and finally resolving a ticketbr />
 
 <h2>Environments and Technologies Used</h2>
 
